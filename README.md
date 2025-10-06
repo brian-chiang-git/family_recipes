@@ -1,4 +1,4 @@
-# Family secret rercipes
+# clan secret rercipes
 Set of recipes as given by my grandma.
  * Pizzas 
     - [base](./pizzas/base.md)
